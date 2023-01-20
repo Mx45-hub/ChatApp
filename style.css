@@ -1,0 +1,138 @@
+.banner{
+    color: aqua;
+    
+}
+@media screen and (max-width: 600px) {
+    .banner {
+        color: rgb(245, 7, 7);
+        margin-left: 8px;
+      
+    }
+  }
+  @media screen and (min-width: 400px) {
+    .banner {
+        color: rgb(245, 7, 7);
+        margin-left: 8px;
+      
+    }
+  }
+  
+  @media screen and (min-width: 800px) {
+    .banner {
+        color: rgb(245, 7, 7);
+        margin-left: 500px;
+      
+    }
+  }
+
+.form-group{
+    color: rgb(3, 3, 9);
+    text-decoration: solid;
+    font-weight: bold;
+   
+    border: 100px;
+    align-items: center;
+    font-size: large;
+
+
+
+}
+@media screen and (max-width: 600px) {
+    .form-group {
+        color: rgb(5, 4, 4);
+        margin-left: 8px;
+      
+    }
+  }
+  @media screen and (min-width: 400px) {
+    .form-group {
+        color: rgb(4, 3, 3);
+        margin-left: 8px;
+      
+    }
+  }
+  
+  @media screen and (min-width: 800px) {
+    .form-group {
+        color: rgb(9, 8, 8);
+        margin-left: 270px;
+      
+    }
+  }
+
+.btn btn-primary{
+    color: rgb(9, 8, 8);
+    size: 100px;
+    margin-left: 10000px;
+
+
+}
+
+
+.panel-body{
+    color: rgb(134, 210, 40);
+
+}
+
+.box{
+    margin-left: 90000000000px;
+    background-color: rgb(42, 165, 81);
+
+        padding: 20px;
+        border: 8px solid rgb(204, 204, 204);
+        border-radius: 5px;
+        margin: 0 auto;
+    
+      
+}
+
+@media screen and (max-width: 600px) {
+    .box {
+        color: rgb(5, 4, 4);
+        margin-left: 8px;
+        width: 300px;
+        height: 300px;
+      
+    }
+  }
+  @media screen and (min-width: 400px) {
+    .box{
+        
+        margin-left: 8px;
+        width: 300px;
+        height: 300px;
+        margin-left: 90px;
+
+        
+      
+    }
+  }
+  
+  @media screen and (min-width: 800px) {
+    .box{
+        color: rgb(9, 8, 8);
+        width: 700px;
+        height: 300px;
+        margin-left: 400px;
+
+        
+      
+    }
+  }
+
+
+.mr-auto{
+    color: rgb(1, 1, 5);
+    margin-left: 600px;
+
+}
+.creator{
+    color: rgb(1, 12, 12);
+    margin-left: 620px;
+}
+.signupbutton{
+    color: black;
+    margin-left: 700px;
+
+
+}
